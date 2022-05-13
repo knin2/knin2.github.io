@@ -1,0 +1,25 @@
+@font-face {
+  font-family: corbuljas;
+  src: url("font.ttf");
+}
+body {
+  margin: 0;
+  background-color: #ffffff;
+  color: #ffffff;
+  font-family: corbuljas;
+}
+.full_w {
+  width: 100%;
+  overflow: hidden;
+}
+.izbornik {
+  height: 20px;
+  text-align: center;
+  background-color: #3f95e0;
+}
+a {
+  color: #ffffff;
+  margin: 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
